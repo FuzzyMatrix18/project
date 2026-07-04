@@ -1,0 +1,6 @@
+class SmallestFactors
+{
+    int num;
+    
+
+}
